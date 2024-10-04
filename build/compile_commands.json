@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/geff/Dev/Projects/plugin/build",
+  "command": "/usr/bin/cc -Dsynth_EXPORTS -I/home/geff/Dev/Projects/plugin/synth -I/home/geff/Dev/Projects/plugin/src -I/home/geff/Dev/Projects/plugin/deps/clap  -Wall -Wextra -g3 -Wnull-dereference -Wwrite-strings -Wformat=2 -Wcast-align -Wconversion -Wdouble-promotion -Wno-unused-parameter -Wno-unused-function -Wno-sign-conversion -fsanitize=undefined -fsanitize-trap -fPIC -o CMakeFiles/synth.dir/src/main.c.o -c /home/geff/Dev/Projects/plugin/src/main.c",
+  "file": "/home/geff/Dev/Projects/plugin/src/main.c",
+  "output": "CMakeFiles/synth.dir/src/main.c.o"
+},
+{
+  "directory": "/home/geff/Dev/Projects/plugin/build",
+  "command": "/usr/bin/cc -Dsynth_EXPORTS -I/home/geff/Dev/Projects/plugin/synth -I/home/geff/Dev/Projects/plugin/src -I/home/geff/Dev/Projects/plugin/deps/clap  -Wall -Wextra -g3 -Wnull-dereference -Wwrite-strings -Wformat=2 -Wcast-align -Wconversion -Wdouble-promotion -Wno-unused-parameter -Wno-unused-function -Wno-sign-conversion -fsanitize=undefined -fsanitize-trap -fPIC -o CMakeFiles/synth.dir/src/gui/gui_x11.c.o -c /home/geff/Dev/Projects/plugin/src/gui/gui_x11.c",
+  "file": "/home/geff/Dev/Projects/plugin/src/gui/gui_x11.c",
+  "output": "CMakeFiles/synth.dir/src/gui/gui_x11.c.o"
+}
+]
