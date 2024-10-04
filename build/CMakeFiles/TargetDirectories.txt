@@ -1,3 +1,0 @@
-/home/geff/Dev/Projects/plugin/build/CMakeFiles/synth.dir
-/home/geff/Dev/Projects/plugin/build/CMakeFiles/edit_cache.dir
-/home/geff/Dev/Projects/plugin/build/CMakeFiles/rebuild_cache.dir

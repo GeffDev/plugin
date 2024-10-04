@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC  -Wall -Wextra -g3 -Wnull-dereference -Wwrite-strings -Wformat=2 -Wcast-align -Wconversion -Wdouble-promotion -Wno-unused-parameter -Wno-unused-function -Wno-sign-conversion -fsanitize=undefined -fsanitize-trap -shared -Wl,-soname,Sampler.clap -o Sampler.clap CMakeFiles/synth.dir/src/main.c.o CMakeFiles/synth.dir/src/gui/gui_x11.c.o 
